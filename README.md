@@ -9,7 +9,7 @@
  - [Hirrolot/epilepsy](https://github.com/Hirrolot/epilepsy) -- A functional language for C/C++ preprocessor metaprogramming.
  - [BlueFlo0d/CSP](https://github.com/BlueFlo0d/CSP) --  Compile-time LISP interpreter on C macro preprocessor.
  - [boostorg/preprocessor](https://github.com/boostorg/preprocessor) -- Boost.org preprocessor module.
- - [https://github.com/boostorg/vmd](https://github.com/boostorg/vmd) -- Boost.org VMD module.
+ - [boostorg/vmd](https://github.com/boostorg/vmd) -- Boost.org VMD module.
  - [rofl0r/order-pp](https://github.com/rofl0r/order-pp) -- order-pp preprocessor library (standalone part of chaos-pp).
  - [rofl0r/chaos-pp](https://github.com/rofl0r/chaos-pp) -- chaos preprocessor library. this is what boost preprocessor derived from.
  - [Hirrolot/poica](https://github.com/Hirrolot/poica) -- A research programming language on top of C macros.
@@ -21,6 +21,7 @@
 
 ## Articles
 
+ - [7 Scandalous Weird Old Things About The C Preprocessor](https://blog.robertelder.org/7-weird-old-things-about-the-c-preprocessor/)
  - [Abusing the preprocessor to implement a Turing machine](http://www.ioccc.org/2001/herrmann1.hint)
  - [Металингвистический совратитель Си. Опус I: Предварительные ласки](https://habr.com/en/post/520850/) (Russian)
  - [Металингвистический совратитель Си. Опус II: Рекуррентный экстаз](https://habr.com/en/post/523606/) (Russian)
