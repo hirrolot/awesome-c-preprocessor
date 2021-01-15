@@ -21,7 +21,7 @@
 
 ## Articles
 
- - [7 Scandalous Weird Old Things About The C Preprocessor](https://blog.robertelder.org/7-weird-old-things-about-the-c-preprocessor/) by Robert Elder.
+ - [7 Scandalous Weird Old Things About The C Preprocessor](https://blog.robertelder.org/7-weird-old-things-about-the-c-preprocessor/) by Robert Elder
  - [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html) by [Simon Tatham](http://pobox.com/~anakin/)
  - [IOCC "Best abuse of the C preprocessor"](http://www.ioccc.org/2001/herrmann1.hint) by Immanuel Herrmann
  - [Металингвистический совратитель Си. Опус I: Предварительные ласки](https://habr.com/en/post/520850/) (Russian)
