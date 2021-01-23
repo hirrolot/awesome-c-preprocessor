@@ -12,6 +12,7 @@
  - [boostorg/vmd](https://github.com/boostorg/vmd) -- Boost.org VMD module.
  - [rofl0r/order-pp](https://github.com/rofl0r/order-pp) -- order-pp preprocessor library (standalone part of chaos-pp).
  - [rofl0r/chaos-pp](https://github.com/rofl0r/chaos-pp) -- chaos preprocessor library. this is what boost preprocessor derived from.
+ - [gustedt/p99](https://gitlab.inria.fr/gustedt/p99/) -- Macros and functions for C99.
  - [hirrolot/poica](https://github.com/hirrolot/poica) -- A research programming language on top of C macros.
  - [swansontec/map-macro](https://github.com/swansontec/map-macro) -- A recursive C preprocessor macro which performs an operation on each element of a list.
  - [pfultz2/Cloak](https://github.com/pfultz2/Cloak) -- A mini-preprocessor library to demostrate the recursive capabilites of the preprocessor.
