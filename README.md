@@ -25,6 +25,7 @@
  - [M4GNV5/CppFun](https://github.com/M4GNV5/CppFun) -- Math in the C pre-processor by breaking up Numbers into arrays of 8 bits and implementing common operations on those arrays.
  - [ramdeoshubham/macros](https://github.com/ramdeoshubham/macros) -- A collection of commonly used C MACROS.
  - [shakna-israel/LetsDestroyC.md](https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#file-letsdestroyc-md) -- Let's Destroy C.
+ - [ptaffet/preprocessor-debug](https://github.com/ptaffet/preprocessor-debug) -- Observe how the C preprocessor expands your complicated macros.
 
 ## Articles
 
