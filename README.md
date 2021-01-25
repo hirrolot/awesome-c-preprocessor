@@ -21,6 +21,7 @@
  - [Ferdi265/preprocessor_brainfuck](https://github.com/Ferdi265/preprocessor_brainfuck) -- A brainfuck interpreter using only the C preprocessor.
  - [orangeduck/CPP_COMPLETE](https://github.com/orangeduck/CPP_COMPLETE) -- Brainfuck interpreter written in the C preprocessor.
  - [notfoundry/bf.h](https://gist.github.com/notfoundry/fad611951bbcec68d72be4fa093537a8#file-bf-h) -- Brainfuck interpreter written in the C preprocessor.
+ - [mkotha/bfi](https://github.com/mkotha/bfi) -- A brainfuck interpreter on the C preprocessor.
  - [ramdeoshubham/macros](https://github.com/ramdeoshubham/macros) -- A collection of commonly used C MACROS.
  - [shakna-israel/LetsDestroyC.md](https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#file-letsdestroyc-md) -- Let's Destroy C.
 
