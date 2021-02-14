@@ -7,6 +7,7 @@
 ## Projects
 
  - [Hirrolot/metalang99](https://github.com/Hirrolot/metalang99) -- A functional language for C99 preprocessor metaprogramming.
+ - [Hirrolot/datatype99](https://github.com/Hirrolot/datatype99) -- C99 with sum types.
  - [BlueFlo0d/CSP](https://github.com/BlueFlo0d/CSP) --  Compile-time LISP interpreter on C macro preprocessor.
  - [boostorg/preprocessor](https://github.com/boostorg/preprocessor) -- Boost.org preprocessor module.
  - [boostorg/vmd](https://github.com/boostorg/vmd) -- Boost.org VMD module.
