@@ -29,6 +29,7 @@
  - [ramdeoshubham/macros](https://github.com/ramdeoshubham/macros) -- A collection of commonly used C MACROS.
  - [shakna-israel/LetsDestroyC.md](https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#file-letsdestroyc-md) -- Let's Destroy C.
  - [ptaffet/preprocessor-debug](https://github.com/ptaffet/preprocessor-debug) -- Observe how the C preprocessor expands your complicated macros.
+ - [notfoundry/ppasm](https://github.com/notfoundry/ppasm) -- x86_64 macro assembler entirely in C preprocessor.
 
 ## Articles
 
