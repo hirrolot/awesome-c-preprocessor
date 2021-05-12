@@ -56,3 +56,4 @@
  - [Can we have recursive macros?](https://stackoverflow.com/questions/12447557/can-we-have-recursive-macros)
  - [Overloading Macro on Number of Arguments](https://stackoverflow.com/questions/11761703/overloading-macro-on-number-of-arguments)
  - [The most useful user-made C-macros (in GCC, also C99)?](https://stackoverflow.com/questions/1772119/the-most-useful-user-made-c-macros-in-gcc-also-c99)
+ - [Understanding DEFER and OBSTRUCT macros](https://stackoverflow.com/questions/29962560/understanding-defer-and-obstruct-macros)
