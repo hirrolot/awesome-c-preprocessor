@@ -41,6 +41,7 @@
  - [shakna-israel/LetsDestroyC.md](https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#file-letsdestroyc-md) -- Let's Destroy C.
  - [agrif/Makefile](https://gist.github.com/agrif/6127126) -- A horrible, horrible, wonderful C Preprocessor hack library.
  - [ptaffet/preprocessor-debug](https://github.com/ptaffet/preprocessor-debug) -- Observe how the C preprocessor expands your complicated macros.
+ - [CObjectSystem/COS](https://github.com/CObjectSystem/COS) -- C Object System: a framework that brings C to the level of other high level programming languages and beyond.
 
 ## Articles
 
