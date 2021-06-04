@@ -14,6 +14,7 @@
  - [gustedt/p99](https://gitlab.inria.fr/gustedt/p99/) -- Macros and functions for C99.
  - [pfultz2/Cloak](https://github.com/pfultz2/Cloak) -- A mini-preprocessor library to demostrate the recursive capabilites of the preprocessor.
  - [mcinglis/libpp](https://github.com/mcinglis/libpp) -- Functional-programming macros for the C preprocessor.
+ - [mcinglis/macrofun](https://github.com/mcinglis/macrofun) -- Standards-defying functional-programming macros for the C preprocessor.
  - [davidgarland/ceano](https://github.com/davidgarland/ceano) -- A collection of C preprocessor hackery.
  - [twhitehead/c99-meta](https://github.com/twhitehead/c99-meta) -- Abusing the C99 preprocessor for meta-programming.
  - [metacall/core/source/preprocessor](https://github.com/metacall/core/tree/develop/source/preprocessor) -- Preprocessor Library by Parra Studios.
