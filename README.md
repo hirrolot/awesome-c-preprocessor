@@ -23,9 +23,14 @@
  - [BlueFlo0d/CSP](https://github.com/BlueFlo0d/CSP) --  Compile-time LISP interpreter on C macro preprocessor.
  - [Ferdi265/preprocessor_brainfuck](https://github.com/Ferdi265/preprocessor_brainfuck) -- A brainfuck interpreter using only the C preprocessor.
  - [orangeduck/CPP_COMPLETE](https://github.com/orangeduck/CPP_COMPLETE) -- Brainfuck interpreter written in the C preprocessor.
- - [notfoundry/bf.h](https://gist.github.com/notfoundry/fad611951bbcec68d72be4fa093537a8#file-bf-h) -- Brainfuck interpreter written in the C preprocessor.
  - [mkotha/bfi](https://github.com/mkotha/bfi) -- A brainfuck interpreter on the C preprocessor.
+ - [notfoundry/bf.h](https://gist.github.com/notfoundry/fad611951bbcec68d72be4fa093537a8#file-bf-h) -- Brainfuck interpreter written in the C preprocessor.
  - [notfoundry/ppasm](https://github.com/notfoundry/ppasm) -- x86_64 macro assembler entirely in C preprocessor.
+
+## Debuggers
+
+ - [ptaffet/preprocessor-debug](https://github.com/ptaffet/preprocessor-debug) -- Observe how the C preprocessor expands your complicated macros.
+ - [notfoundry/ppstep](https://github.com/notfoundry/ppstep) -- Interactive C/C++ preprocessor macro debugger.
 
 ## Other projects
 
@@ -40,8 +45,8 @@
  - [ramdeoshubham/macros](https://github.com/ramdeoshubham/macros) -- A collection of commonly used C MACROS.
  - [shakna-israel/LetsDestroyC.md](https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#file-letsdestroyc-md) -- Let's Destroy C.
  - [agrif/Makefile](https://gist.github.com/agrif/6127126) -- A horrible, horrible, wonderful C Preprocessor hack library.
- - [ptaffet/preprocessor-debug](https://github.com/ptaffet/preprocessor-debug) -- Observe how the C preprocessor expands your complicated macros.
  - [CObjectSystem/COS](https://github.com/CObjectSystem/COS) -- C Object System: a framework that brings C to the level of other high level programming languages and beyond.
+ - [notfoundry/wtf.c](https://gist.github.com/notfoundry/aa927a9ef07a3a5990b08c5e78b0b492) -- 4-bit ALU metaprogrammed in C11's \_Generic.
 
 ## Articles
 
