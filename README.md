@@ -32,6 +32,7 @@
 
  - [ptaffet/preprocessor-debug](https://github.com/ptaffet/preprocessor-debug) -- Observe how the C preprocessor expands your complicated macros.
  - [notfoundry/ppstep](https://github.com/notfoundry/ppstep) -- Interactive C/C++ preprocessor macro debugger.
+ - [messer-cpp/messer](https://github.com/messer-cpp/messer) -- REPL for C preprocessor of C++17.
 
 ## Other projects
 
