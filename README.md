@@ -59,6 +59,7 @@
  - [Advanced metaprogramming in C](https://250bpm.com/blog:56/) by Martin Sústrik.
  - [C/C++ Preprocessor Metaprogramming](http://saadahmad.ca/cc-preprocessor-metaprogramming-2/) by Saad Ahmad.
  - [The Love/Hate Relationship with the C Preprocessor: An Interview Study](https://www.cs.cmu.edu/~ckaestne/pdf/ecoop15.pdf) by Flávio Medeiros, Christian Kästner, Márcio Ribeiro, Sarah Nadi, Rohit Gheyi.
+ - [Outperforming LAPACK with C metaprogramming](https://wordsandbuttons.online/outperforming_lapack_with_c_metaprogramming.html) by Oleksandr Kaleniuk.
  - [Металингвистический совратитель Си. Опус I: Предварительные ласки](https://habr.com/en/post/520850/) by Hirrolot (Russian).
  - [Металингвистический совратитель Си. Опус II: Рекуррентный экстаз](https://habr.com/en/post/523606/) by Hirrolot (Russian).
 
