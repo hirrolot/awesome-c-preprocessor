@@ -18,6 +18,7 @@
  - [davidgarland/ceano](https://github.com/davidgarland/ceano) -- A collection of C preprocessor hackery.
  - [twhitehead/c99-meta](https://github.com/twhitehead/c99-meta) -- Abusing the C99 preprocessor for meta-programming.
  - [metacall/core/source/preprocessor](https://github.com/metacall/core/tree/develop/source/preprocessor) -- Preprocessor Library by Parra Studios.
+ - [ZLang](https://github.com/pfultz2/ZLang) -- A plugin framework for namespace macros in C/C++.
 
 ## Compilers/Interpreters
 
