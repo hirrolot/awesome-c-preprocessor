@@ -63,6 +63,7 @@
  - [Outperforming LAPACK with C metaprogramming](https://wordsandbuttons.online/outperforming_lapack_with_c_metaprogramming.html) by Oleksandr Kaleniuk.
  - [Металингвистический совратитель Си. Опус I: Предварительные ласки](https://habr.com/en/post/520850/) by Hirrolot (Russian).
  - [Металингвистический совратитель Си. Опус II: Рекуррентный экстаз](https://habr.com/en/post/523606/) by Hirrolot (Russian).
+ - [Металингвистический совратитель Си. Опус III: Садистская машина](https://habr.com/en/post/523688/) by Hirrolot (Russian).
 
 ## SO questions
 
