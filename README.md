@@ -50,6 +50,7 @@
  - [agrif/Makefile](https://gist.github.com/agrif/6127126) -- A horrible, horrible, wonderful C Preprocessor hack library.
  - [CObjectSystem/COS](https://github.com/CObjectSystem/COS) -- C Object System: a framework that brings C to the level of other high level programming languages and beyond.
  - [notfoundry/wtf.c](https://gist.github.com/notfoundry/aa927a9ef07a3a5990b08c5e78b0b492) -- 4-bit ALU metaprogrammed in C11's \_Generic.
+ - [kcning/binom](https://github.com/kcning/binom) -- C macro that computes binominal coefficient at compile time.
 
 ## Articles
 
