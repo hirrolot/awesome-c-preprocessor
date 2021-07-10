@@ -42,6 +42,7 @@
  - [alexanderchuranov/Metaresc](https://github.com/alexanderchuranov/Metaresc) -- META data and RESource library for C language.
  - [swansontec/map-macro](https://github.com/swansontec/map-macro) -- A recursive C preprocessor macro which performs an operation on each element of a list.
  - [Leushenko/C99-Lambda](https://github.com/Leushenko/C99-Lambda) -- Purely evil preprocessor macros adding anonymous functions and closures to ISO C99.
+ - [Leushenko/Pyrite](https://github.com/Leushenko/Pyrite) -- BASIC-style "compiler" as C syntax library.
  - [yulon/clofn](https://github.com/yulon/clofn) -- A closure function implementation for C.
  - [small-c/obj.h](https://github.com/small-c/obj.h) -- A single-header supports OOP in pure C.
  - [M4GNV5/CppFun](https://github.com/M4GNV5/CppFun) -- Math in the C pre-processor by breaking up Numbers into arrays of 8 bits and implementing common operations on those arrays.
