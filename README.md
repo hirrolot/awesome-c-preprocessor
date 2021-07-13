@@ -53,6 +53,7 @@
  - [notfoundry/wtf.c](https://gist.github.com/notfoundry/aa927a9ef07a3a5990b08c5e78b0b492) -- 4-bit ALU metaprogrammed in C11's \_Generic.
  - [kcning/binom](https://github.com/kcning/binom) -- C macro that computes binominal coefficient at compile time.
  - [ldionne/cisp](https://github.com/ldionne/cisp) -- A C preprocessor library implementing object semantics.
+ - [rofl0r/thread_wrapper](https://github.com/rofl0r/thread_wrapper) -- A thread launcher wrapper macro which removes the boilerplate and allows to call any non-void function as a separate thread (needs BOOST preprocessor lib, which is C compatible).
 
 ## Articles
 
