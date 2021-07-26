@@ -54,6 +54,7 @@
  - [kcning/binom](https://github.com/kcning/binom) -- C macro that computes binominal coefficient at compile time.
  - [ldionne/cisp](https://github.com/ldionne/cisp) -- A C preprocessor library implementing object semantics.
  - [rofl0r/thread_wrapper](https://github.com/rofl0r/thread_wrapper) -- A thread launcher wrapper macro which removes the boilerplate and allows to call any non-void function as a separate thread (needs BOOST preprocessor lib, which is C compatible).
+ - [18sg/uSHET](https://github.com/18sg/uSHET/blob/master/lib/cpp_magic.h) -- A Malloc-Free SHET Client Library for Microcontrollers (`lib/cpp_magic.h`).
 
 ## Articles
 
@@ -65,6 +66,7 @@
  - [C/C++ Preprocessor Metaprogramming](http://saadahmad.ca/cc-preprocessor-metaprogramming-2/) by Saad Ahmad.
  - [The Love/Hate Relationship with the C Preprocessor: An Interview Study](https://www.cs.cmu.edu/~ckaestne/pdf/ecoop15.pdf) by Flávio Medeiros, Christian Kästner, Márcio Ribeiro, Sarah Nadi, Rohit Gheyi.
  - [Outperforming LAPACK with C metaprogramming](https://wordsandbuttons.online/outperforming_lapack_with_c_metaprogramming.html) by Oleksandr Kaleniuk.
+ - [C Pre-Processor Magic](http://jhnet.co.uk/articles/cpp_magic) by Jonathan Heathcote.
  - [Металингвистический совратитель Си. Опус I: Предварительные ласки](https://habr.com/en/post/520850/) by hirrolot (Russian).
  - [Металингвистический совратитель Си. Опус II: Рекуррентный экстаз](https://habr.com/en/post/523606/) by hirrolot (Russian).
  - [Металингвистический совратитель Си. Опус III: Садистская машина](https://habr.com/en/post/523688/) by hirrolot (Russian).
