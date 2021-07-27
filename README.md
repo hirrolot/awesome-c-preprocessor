@@ -54,7 +54,8 @@
  - [kcning/binom](https://github.com/kcning/binom) -- C macro that computes binominal coefficient at compile time.
  - [ldionne/cisp](https://github.com/ldionne/cisp) -- A C preprocessor library implementing object semantics.
  - [rofl0r/thread_wrapper](https://github.com/rofl0r/thread_wrapper) -- A thread launcher wrapper macro which removes the boilerplate and allows to call any non-void function as a separate thread (needs BOOST preprocessor lib, which is C compatible).
- - [18sg/uSHET](https://github.com/18sg/uSHET/blob/master/lib/cpp_magic.h) -- A Malloc-Free SHET Client Library for Microcontrollers (`lib/cpp_magic.h`).
+ - [18sg/uSHET](https://github.com/18sg/uSHET/blob/c09e0acafd86720efe42dc15c63e0cc228244c32/lib/cpp_magic.h) -- A Malloc-Free SHET Client Library for Microcontrollers (`lib/cpp_magic.h`).
+ - [ScrimpyCat/CommonC](https://github.com/ScrimpyCat/CommonC/blob/30983aa36b2e4e17ade1d0ad60ba7b27ccf16bad/CommonC/Template.h) -- Common utilities for C (`CommonC/Template.h`).
 
 ## Articles
 
