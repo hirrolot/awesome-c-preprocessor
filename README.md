@@ -23,6 +23,7 @@
 ## C language extensions
 
  - [hirrolot/datatype99](https://github.com/hirrolot/datatype99) -- Algebraic data types for C99.
+ - [hirrolot/interface99](https://github.com/hirrolot/interface99) -- Zero-boilerplate interfaces for C99.
  - [hirrolot/poica](https://github.com/hirrolot/poica) -- A research programming language on top of C macros.
  - [CObjectSystem/COS](https://github.com/CObjectSystem/COS) -- C Object System: a framework that brings C to the level of other high level programming languages and beyond.
  - [small-c/obj.h](https://github.com/small-c/obj.h) -- A single-header supports OOP in pure C.
