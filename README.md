@@ -56,6 +56,7 @@
  - [rofl0r/thread_wrapper](https://github.com/rofl0r/thread_wrapper) -- A thread launcher wrapper macro which removes the boilerplate and allows to call any non-void function as a separate thread (needs BOOST preprocessor lib, which is C compatible).
  - [18sg/uSHET](https://github.com/18sg/uSHET/blob/c09e0acafd86720efe42dc15c63e0cc228244c32/lib/cpp_magic.h) -- A Malloc-Free SHET Client Library for Microcontrollers (`lib/cpp_magic.h`).
  - [ScrimpyCat/CommonC](https://github.com/ScrimpyCat/CommonC/blob/30983aa36b2e4e17ade1d0ad60ba7b27ccf16bad/CommonC/Template.h) -- Common utilities for C (`CommonC/Template.h`).
+ - [cher-nov/Gena](https://github.com/cher-nov/Gena) -- Generic pseudo-templated containers for C. Written entirely in C89 with design inspired by the C++ STL.
 
 ## Articles
 
