@@ -20,6 +20,18 @@
  - [twhitehead/c99-meta](https://github.com/twhitehead/c99-meta) -- Abusing the C99 preprocessor for meta-programming.
  - [metacall/core/source/preprocessor](https://github.com/metacall/core/tree/develop/source/preprocessor) -- Preprocessor Library by Parra Studios.
 
+## C language extensions
+
+ - [Hirrolot/datatype99](https://github.com/Hirrolot/datatype99) -- Algebraic data types for C99.
+ - [Hirrolot/poica](https://github.com/Hirrolot/poica) -- A research programming language on top of C macros.
+ - [CObjectSystem/COS](https://github.com/CObjectSystem/COS) -- C Object System: a framework that brings C to the level of other high level programming languages and beyond.
+ - [small-c/obj.h](https://github.com/small-c/obj.h) -- A single-header supports OOP in pure C.
+ - [shakna-israel/LetsDestroyC.md](https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#file-letsdestroyc-md) -- Let's Destroy C.
+ - [yulon/clofn](https://github.com/yulon/clofn) -- A closure function implementation for C.
+ - [alexanderchuranov/Metaresc](https://github.com/alexanderchuranov/Metaresc) -- META data and RESource library for C language.
+ - [Leushenko/C99-Lambda](https://github.com/Leushenko/C99-Lambda) -- Purely evil preprocessor macros adding anonymous functions and closures to ISO C99.
+ - [Leushenko/Pyrite](https://github.com/Leushenko/Pyrite) -- BASIC-style "compiler" as C syntax library.
+
 ## Compilers/Interpreters
 
  - [BlueFlo0d/CSP](https://github.com/BlueFlo0d/CSP) --  Compile-time LISP interpreter on C macro preprocessor.
@@ -37,19 +49,10 @@
 
 ## Other projects
 
- - [Hirrolot/datatype99](https://github.com/Hirrolot/datatype99) -- Algebraic data types for C99.
- - [Hirrolot/poica](https://github.com/Hirrolot/poica) -- A research programming language on top of C macros.
- - [alexanderchuranov/Metaresc](https://github.com/alexanderchuranov/Metaresc) -- META data and RESource library for C language.
  - [swansontec/map-macro](https://github.com/swansontec/map-macro) -- A recursive C preprocessor macro which performs an operation on each element of a list.
- - [Leushenko/C99-Lambda](https://github.com/Leushenko/C99-Lambda) -- Purely evil preprocessor macros adding anonymous functions and closures to ISO C99.
- - [Leushenko/Pyrite](https://github.com/Leushenko/Pyrite) -- BASIC-style "compiler" as C syntax library.
- - [yulon/clofn](https://github.com/yulon/clofn) -- A closure function implementation for C.
- - [small-c/obj.h](https://github.com/small-c/obj.h) -- A single-header supports OOP in pure C.
  - [M4GNV5/CppFun](https://github.com/M4GNV5/CppFun) -- Math in the C pre-processor by breaking up Numbers into arrays of 8 bits and implementing common operations on those arrays.
  - [ramdeoshubham/macros](https://github.com/ramdeoshubham/macros) -- A collection of commonly used C MACROS.
- - [shakna-israel/LetsDestroyC.md](https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#file-letsdestroyc-md) -- Let's Destroy C.
  - [agrif/Makefile](https://gist.github.com/agrif/6127126) -- A horrible, horrible, wonderful C Preprocessor hack library.
- - [CObjectSystem/COS](https://github.com/CObjectSystem/COS) -- C Object System: a framework that brings C to the level of other high level programming languages and beyond.
  - [notfoundry/wtf.c](https://gist.github.com/notfoundry/aa927a9ef07a3a5990b08c5e78b0b492) -- 4-bit ALU metaprogrammed in C11's \_Generic.
  - [kcning/binom](https://github.com/kcning/binom) -- C macro that computes binominal coefficient at compile time.
  - [ldionne/cisp](https://github.com/ldionne/cisp) -- A C preprocessor library implementing object semantics.
