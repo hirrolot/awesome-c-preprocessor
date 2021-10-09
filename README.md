@@ -32,6 +32,7 @@
  - [alexanderchuranov/Metaresc](https://github.com/alexanderchuranov/Metaresc) -- META data and RESource library for C language.
  - [Leushenko/C99-Lambda](https://github.com/Leushenko/C99-Lambda) -- Purely evil preprocessor macros adding anonymous functions and closures to ISO C99.
  - [Leushenko/Pyrite](https://github.com/Leushenko/Pyrite) -- BASIC-style "compiler" as C syntax library.
+ - [emdash/goof](https://github.com/emdash/goof) -- A toy functional language created through the abuse of C.
 
 ## Compilers/Interpreters
 
