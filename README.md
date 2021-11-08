@@ -78,6 +78,17 @@
  - [Металингвистический совратитель Си. Опус II: Рекуррентный экстаз](https://habr.com/en/post/523606/) by Hirrolot (Russian).
  - [Металингвистический совратитель Си. Опус III: Садистская машина](https://habr.com/en/post/523688/) by Hirrolot (Russian).
 
+### Jens Gustedt's Blog
+
+Link: https://gustedt.wordpress.com/category/c99/preprocessor/.
+
+Some worth-noting articles:
+
+ - [Handling control flow inside macros](https://gustedt.wordpress.com/2011/02/02/handling-control-flow-inside-macros/)
+ - [Scope Bound Resource Management with `for` Scopes](https://gustedt.wordpress.com/2010/08/14/scope-bound-resource-management-with-for-scopes/)
+ - [Detect empty macro arguments](https://gustedt.wordpress.com/2010/06/08/detect-empty-macro-arguments/)
+ - [Default arguments for C99](https://gustedt.wordpress.com/2010/06/03/default-arguments-for-c99/)
+
 ## SO questions
 
  - [Is the C99 preprocessor Turing complete?](https://stackoverflow.com/questions/3136686/is-the-c99-preprocessor-turing-complete)
