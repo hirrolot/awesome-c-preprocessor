@@ -11,7 +11,7 @@
  - [boostorg/vmd](https://github.com/boostorg/vmd) -- Boost.org VMD module.
  - [rofl0r/order-pp](https://github.com/rofl0r/order-pp) -- order-pp preprocessor library (standalone part of chaos-pp).
  - [rofl0r/chaos-pp](https://github.com/rofl0r/chaos-pp) -- chaos preprocessor library. this is what boost preprocessor derived from.
- - [pfultz2/Cloak](https://github.com/pfultz2/Cloak) -- A mini-preprocessor library to demostrate the recursive capabilites of the preprocessor.
+ - [pfultz2/Cloak](https://github.com/pfultz2/Cloak) -- A mini-preprocessor library to demonstrate the recursive capabilities of the preprocessor.
  - [pfultz2/ZLang](https://github.com/pfultz2/ZLang) -- A plugin framework for namespace macros in C/C++.
  - [mcinglis/libpp](https://github.com/mcinglis/libpp) -- Functional-programming macros for the C preprocessor.
  - [mcinglis/macrofun](https://github.com/mcinglis/macrofun) -- Standards-defying functional-programming macros for the C preprocessor.
