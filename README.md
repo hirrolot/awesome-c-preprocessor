@@ -24,7 +24,7 @@
 
  - [Hirrolot/datatype99](https://github.com/Hirrolot/datatype99) -- Algebraic data types for C99.
  - [Hirrolot/interface99](https://github.com/Hirrolot/interface99) -- Zero-boilerplate interfaces for C99.
- - [Hirrolot/poica](https://github.com/Hirrolot/poica) -- A research programming language on top of C macros.
+ - [orangeduck/Cello](https://github.com/orangeduck/Cello) -- Higher level programming in C.
  - [CObjectSystem/COS](https://github.com/CObjectSystem/COS) -- C Object System: a framework that brings C to the level of other high level programming languages and beyond.
  - [small-c/obj.h](https://github.com/small-c/obj.h) -- A single-header supports OOP in pure C.
  - [shakna-israel/LetsDestroyC.md](https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163#file-letsdestroyc-md) -- Let's Destroy C.
