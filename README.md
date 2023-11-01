@@ -52,6 +52,7 @@
 
 ## Other projects
 
+ - [mcpp](https://mcpp.sourceforge.net/) -- A portable C preprocessor.
  - [swansontec/map-macro](https://github.com/swansontec/map-macro) -- A recursive C preprocessor macro which performs an operation on each element of a list.
  - [M4GNV5/CppFun](https://github.com/M4GNV5/CppFun) -- Math in the C pre-processor by breaking up Numbers into arrays of 8 bits and implementing common operations on those arrays.
  - [ramdeoshubham/macros](https://github.com/ramdeoshubham/macros) -- A collection of commonly used C MACROS.
