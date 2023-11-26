@@ -19,6 +19,7 @@
  - [davidgarland/ceano](https://github.com/davidgarland/ceano) -- A collection of C preprocessor hackery.
  - [twhitehead/c99-meta](https://github.com/twhitehead/c99-meta) -- Abusing the C99 preprocessor for meta-programming.
  - [metacall/core/source/preprocessor](https://github.com/metacall/core/tree/develop/source/preprocessor) -- Preprocessor Library by Parra Studios.
+ - [nthnn/wtfC!?](https://github.com/nthnn/wtfC) - Playful language extension for C/C++ that introduces unconventional and humorous macros.
 
 ## C language extensions
 
