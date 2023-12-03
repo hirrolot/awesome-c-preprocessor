@@ -38,6 +38,7 @@
 ## Compilers/Interpreters
 
  - [BlueFlo0d/CSP](https://github.com/BlueFlo0d/CSP) --  Compile-time LISP interpreter on C macro preprocessor.
+ - [cospplredman/PPLISP](https://github.com/cospplredman/PPLISP) -- A set of 45 macros that allow for lisp-like preprocessor meta programming.
  - [Ferdi265/preprocessor_brainfuck](https://github.com/Ferdi265/preprocessor_brainfuck) -- A brainfuck interpreter using only the C preprocessor.
  - [orangeduck/CPP_COMPLETE](https://github.com/orangeduck/CPP_COMPLETE) -- Brainfuck interpreter written in the C preprocessor.
  - [mkotha/bfi](https://github.com/mkotha/bfi) -- A brainfuck interpreter on the C preprocessor.
