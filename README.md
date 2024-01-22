@@ -69,15 +69,15 @@
 
 ## Articles
 
- - [7 Scandalous Weird Old Things About The C Preprocessor](https://blog.robertelder.org/7-weird-old-things-about-the-c-preprocessor/) by Robert Elder.
- - [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html) by Simon Tatham.
- - [IOCC "Best abuse of the C preprocessor"](http://www.ioccc.org/2001/herrmann1.hint) by Immanuel Herrmann.
- - [Metaprogramming custom control structures in C](https://www.chiark.greenend.org.uk/~sgtatham/mp/) by Simon Tatham.
- - [Advanced metaprogramming in C](https://250bpm.com/blog:56/) by Martin Sústrik.
- - [C/C++ Preprocessor Metaprogramming](http://saadahmad.ca/cc-preprocessor-metaprogramming-2/) by Saad Ahmad.
- - [The Love/Hate Relationship with the C Preprocessor: An Interview Study](https://www.cs.cmu.edu/~ckaestne/pdf/ecoop15.pdf) by Flávio Medeiros, Christian Kästner, Márcio Ribeiro, Sarah Nadi, Rohit Gheyi.
- - [Outperforming LAPACK with C metaprogramming](https://wordsandbuttons.online/outperforming_lapack_with_c_metaprogramming.html) by Oleksandr Kaleniuk.
- - [C Pre-Processor Magic](http://jhnet.co.uk/articles/cpp_magic) by Jonathan Heathcote.
+ - [_7 Scandalous Weird Old Things About The C Preprocessor_](https://blog.robertelder.org/7-weird-old-things-about-the-c-preprocessor/) by Robert Elder.
+ - [_Coroutines in C_](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html) by Simon Tatham.
+ - [_IOCC "Best abuse of the C preprocessor"_](http://www.ioccc.org/2001/herrmann1.hint) by Immanuel Herrmann.
+ - [_Metaprogramming custom control structures in C_](https://www.chiark.greenend.org.uk/~sgtatham/mp/) by Simon Tatham.
+ - [_Advanced metaprogramming in C_](https://250bpm.com/blog:56/) by Martin Sústrik.
+ - [_C/C++ Preprocessor Metaprogramming_](http://saadahmad.ca/cc-preprocessor-metaprogramming-2/) by Saad Ahmad.
+ - [_The Love/Hate Relationship with the C Preprocessor: An Interview Study_](https://www.cs.cmu.edu/~ckaestne/pdf/ecoop15.pdf) by Flávio Medeiros, Christian Kästner, Márcio Ribeiro, Sarah Nadi, Rohit Gheyi.
+ - [_Outperforming LAPACK with C metaprogramming_](https://wordsandbuttons.online/outperforming_lapack_with_c_metaprogramming.html) by Oleksandr Kaleniuk.
+ - [_C Pre-Processor Magic_](http://jhnet.co.uk/articles/cpp_magic) by Jonathan Heathcote.
 
 ### Jens Gustedt's Blog
 
@@ -85,15 +85,15 @@ Link: https://gustedt.wordpress.com/category/c99/preprocessor/.
 
 Some worth-noting articles:
 
- - [Handling control flow inside macros](https://gustedt.wordpress.com/2011/02/02/handling-control-flow-inside-macros/)
- - [Scope Bound Resource Management with `for` Scopes](https://gustedt.wordpress.com/2010/08/14/scope-bound-resource-management-with-for-scopes/)
- - [Detect empty macro arguments](https://gustedt.wordpress.com/2010/06/08/detect-empty-macro-arguments/)
- - [Default arguments for C99](https://gustedt.wordpress.com/2010/06/03/default-arguments-for-c99/)
+ - [_Handling control flow inside macros_](https://gustedt.wordpress.com/2011/02/02/handling-control-flow-inside-macros/)
+ - [_Scope Bound Resource Management with `for` Scopes_](https://gustedt.wordpress.com/2010/08/14/scope-bound-resource-management-with-for-scopes/)
+ - [_Detect empty macro arguments_](https://gustedt.wordpress.com/2010/06/08/detect-empty-macro-arguments/)
+ - [_Default arguments for C99_](https://gustedt.wordpress.com/2010/06/03/default-arguments-for-c99/)
 
 ## SO questions
 
- - [Is the C99 preprocessor Turing complete?](https://stackoverflow.com/questions/3136686/is-the-c99-preprocessor-turing-complete)
- - [Can we have recursive macros?](https://stackoverflow.com/questions/12447557/can-we-have-recursive-macros)
- - [Overloading Macro on Number of Arguments](https://stackoverflow.com/questions/11761703/overloading-macro-on-number-of-arguments)
- - [The most useful user-made C-macros (in GCC, also C99)?](https://stackoverflow.com/questions/1772119/the-most-useful-user-made-c-macros-in-gcc-also-c99)
- - [Understanding DEFER and OBSTRUCT macros](https://stackoverflow.com/questions/29962560/understanding-defer-and-obstruct-macros)
+ - [_Is the C99 preprocessor Turing complete?_](https://stackoverflow.com/questions/3136686/is-the-c99-preprocessor-turing-complete)
+ - [_Can we have recursive macros?_](https://stackoverflow.com/questions/12447557/can-we-have-recursive-macros)
+ - [_Overloading Macro on Number of Arguments_](https://stackoverflow.com/questions/11761703/overloading-macro-on-number-of-arguments)
+ - [_The most useful user-made C-macros (in GCC, also C99)?_](https://stackoverflow.com/questions/1772119/the-most-useful-user-made-c-macros-in-gcc-also-c99)
+ - [_Understanding DEFER and OBSTRUCT macros_](https://stackoverflow.com/questions/29962560/understanding-defer-and-obstruct-macros)
