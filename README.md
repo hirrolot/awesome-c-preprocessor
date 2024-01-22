@@ -4,6 +4,8 @@
 
 <img src="meme.jpeg" width="400px">
 
+See also: [_"The Preprocessor Iceberg Meme"_](https://jadlevesque.github.io/PPMP-Iceberg/).
+
 ## Metaprogramming frameworks
 
  - [Hirrolot/metalang99](https://github.com/Hirrolot/metalang99) -- Full-blown preprocessor metaprogramming.
