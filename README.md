@@ -8,7 +8,7 @@ See also: [_"The Preprocessor Iceberg Meme"_](https://jadlevesque.github.io/PPMP
 
 ## Metaprogramming frameworks
 
- - [Hirrolot/metalang99](https://github.com/Hirrolot/metalang99) -- Full-blown preprocessor metaprogramming.
+ - [hirrolot/metalang99](https://github.com/hirrolot/metalang99) -- Full-blown preprocessor metaprogramming.
  - [boostorg/preprocessor](https://github.com/boostorg/preprocessor) -- Boost.org preprocessor module.
  - [boostorg/vmd](https://github.com/boostorg/vmd) -- Boost.org VMD module.
  - [rofl0r/order-pp](https://github.com/rofl0r/order-pp) -- order-pp preprocessor library (standalone part of chaos-pp).
@@ -24,8 +24,8 @@ See also: [_"The Preprocessor Iceberg Meme"_](https://jadlevesque.github.io/PPMP
 
 ## C language extensions
 
- - [Hirrolot/datatype99](https://github.com/Hirrolot/datatype99) -- Algebraic data types for C99.
- - [Hirrolot/interface99](https://github.com/Hirrolot/interface99) -- Zero-boilerplate interfaces for C99.
+ - [hirrolot/datatype99](https://github.com/hirrolot/datatype99) -- Algebraic data types for C99.
+ - [hirrolot/interface99](https://github.com/hirrolot/interface99) -- Zero-boilerplate interfaces for C99.
  - [orangeduck/Cello](https://github.com/orangeduck/Cello) -- Higher level programming in C.
  - [CObjectSystem/COS](https://github.com/CObjectSystem/COS) -- C Object System: a framework that brings C to the level of other high level programming languages and beyond.
  - [small-c/obj.h](https://github.com/small-c/obj.h) -- A single-header supports OOP in pure C.
