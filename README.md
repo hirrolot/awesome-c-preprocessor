@@ -81,9 +81,7 @@ See also: [_"The Preprocessor Iceberg Meme"_](https://jadlevesque.github.io/PPMP
  - [_Outperforming LAPACK with C metaprogramming_](https://wordsandbuttons.online/outperforming_lapack_with_c_metaprogramming.html) by Oleksandr Kaleniuk.
  - [_C Pre-Processor Magic_](http://jhnet.co.uk/articles/cpp_magic) by Jonathan Heathcote.
 
-### Jens Gustedt's Blog
-
-Link: https://gustedt.wordpress.com/category/c99/preprocessor/.
+### [Jens Gustedt's Blog](https://gustedt.wordpress.com/category/c99/preprocessor/)
 
 Some worth-noting articles:
 
