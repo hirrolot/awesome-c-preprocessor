@@ -1,4 +1,4 @@
-# awesome-c-preprocessor
+# `awesome-c-preprocessor`
 
 > A list of awesome C preprocessor stuff
 
@@ -59,17 +59,16 @@ See also: [_"The Preprocessor Iceberg Meme"_](https://jadlevesque.github.io/PPMP
  - [`eudoxia0/cmacro`](https://github.com/eudoxia0/cmacro) -- Lisp macros for C.
  - [`eudoxia0/magma`](https://github.com/eudoxia0/magma) -- A collection of useful macros based on `cmacro`.
  - [`swansontec/map-macro`](https://github.com/swansontec/map-macro) -- A recursive C preprocessor macro which performs an operation on each element of a list.
- - [`M4GNV5/CppFun`](https://github.com/M4GNV5/CppFun) -- Math in the C pre-processor by breaking up Numbers into arrays of 8 bits and implementing common operations on those arrays.
+ - [`M4GNV5/CppFun`](https://github.com/M4GNV5/CppFun) -- Arithmetic in the C preprocessor by representing numbers as arrays of 8-bit elements.
  - [`ramdeoshubham/macros`](https://github.com/ramdeoshubham/macros) -- A collection of commonly used C MACROS.
+ - [`cher-nov/Gena`](https://github.com/cher-nov/Gena) -- Generic pseudo-templated containers written in C89, inspired by C++ STL.
  - [`agrif/Makefile`](https://gist.github.com/agrif/6127126) -- A horrible, horrible, wonderful C Preprocessor hack library.
- - [`notfoundry/wtf.c`](https://gist.github.com/notfoundry/aa927a9ef07a3a5990b08c5e78b0b492) -- 4-bit ALU metaprogrammed in C11's \_Generic.
+ - [`notfoundry/wtf.c`](https://gist.github.com/notfoundry/aa927a9ef07a3a5990b08c5e78b0b492) -- 4-bit ALU metaprogrammed in C11's `_Generic`.
  - [`kcning/binom`](https://github.com/kcning/binom) -- C macro that computes binominal coefficient at compile time.
  - [`ldionne/cisp`](https://github.com/ldionne/cisp) -- A C preprocessor library implementing object semantics.
- - [`rofl0r/thread_wrapper`](https://github.com/rofl0r/thread_wrapper) -- A thread launcher wrapper macro which removes the boilerplate and allows to call any non-void function as a separate thread (needs BOOST preprocessor lib, which is C compatible).
+ - [`rofl0r/thread_wrapper`](https://github.com/rofl0r/thread_wrapper) -- A thread launcher wrapper macro based on Boost/Preprocessor.
  - [`18sg/uSHET`](https://github.com/18sg/uSHET/blob/c09e0acafd86720efe42dc15c63e0cc228244c32/lib/cpp_magic.h) -- A Malloc-Free SHET Client Library for Microcontrollers (`lib/cpp_magic.h`).
  - [`ScrimpyCat/CommonC`](https://github.com/ScrimpyCat/CommonC/blob/30983aa36b2e4e17ade1d0ad60ba7b27ccf16bad/CommonC/Template.h) -- Common utilities for C (`CommonC/Template.h`).
- - [`cher-nov/Gena`](https://github.com/cher-nov/Gena) -- Generic pseudo-templated containers for C. Written entirely in C89 with design inspired by the C++ STL.
- - [`DiscordPP/discordpp`](https://github.com/DiscordPP/discordpp) and [`DiscordPP/plugin-native`](https://github.com/DiscordPP/plugin-native) -- A modular Discord library and a module for it that use macros to define Discord API endpoints and objects.
 
 ## Articles
 
