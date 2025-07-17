@@ -55,6 +55,9 @@ See also: [_"The Preprocessor Iceberg Meme"_](https://jadlevesque.github.io/PPMP
 ## Other projects
 
  - [`mcpp`](https://mcpp.sourceforge.net/) -- A portable C preprocessor.
+ - [`Cedro`](https://sentido-labs.com/en/library/cedro/202106171400/) -- A C language extension that works as an (external) preprocessor.
+ - [`eudoxia0/cmacro`](https://github.com/eudoxia0/cmacro) -- Lisp macros for C.
+ - [`eudoxia0/magma`](https://github.com/eudoxia0/magma) -- A collection of useful macros based on `cmacro`.
  - [`swansontec/map-macro`](https://github.com/swansontec/map-macro) -- A recursive C preprocessor macro which performs an operation on each element of a list.
  - [`M4GNV5/CppFun`](https://github.com/M4GNV5/CppFun) -- Math in the C pre-processor by breaking up Numbers into arrays of 8 bits and implementing common operations on those arrays.
  - [`ramdeoshubham/macros`](https://github.com/ramdeoshubham/macros) -- A collection of commonly used C MACROS.
